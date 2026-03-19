@@ -2,7 +2,7 @@
 const config = {
   // For development
   development: {
-    API_URL: 'http://localhost:5003/api'
+    API_URL: 'http://localhost:3002/api'
   },
   // For production (update this with your production URL)
   production: {

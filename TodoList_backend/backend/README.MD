@@ -116,3 +116,10 @@ const {Sequelize} = require('sequelize'); // required for db.js
  ## install  
  --npm i pg  (for postgresql) 
 
+
+
+frontend --versel
+backend ---render
+
+
+mvc and routes

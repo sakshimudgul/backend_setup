@@ -23,7 +23,7 @@ const TodoList = () => {
       setError(null);
     } catch (err) {
       console.error('❌ Error:', err);
-      setError('Failed to fetch todos. Make sure the backend is running on port 3000.');
+      setError('Failed to fetch todos. Make sure the backend is running on port 3002.');
     } finally {
       setLoading(false);
     }
